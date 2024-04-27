@@ -22,7 +22,7 @@
 					"scripts": [
 						{
 							"type": "Query",
-							"text": "SELECT name\n    FROM [cust_stp]\n    WHERE id = 1"
+							"text": "SELECT name\n    FROM [cust_stp]\n    WHERE id = 2"
 						}
 					],
 					"scriptBlockExecutionTimeout": "02:00:00"
