@@ -1,0 +1,9 @@
+{
+	"name": "arudatafactory12",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2b1be25d-0d99-4bcf-be86-4cb17940382d",
+		"tenantId": "7e57eb04-3521-4c40-aa48-9047c0dcba69"
+	}
+}
